@@ -29,5 +29,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gamernitro999&show_icons=true&locale=en&layout=compact" alt="gamernitro999" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gamernitro999&show_icons=true&theme=dark&locale=fr" alt="gamernitro999" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gamernitro999&show_icons=true&theme=tokyonight&locale=en" alt="gamernitro999" /></p>
 
