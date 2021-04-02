@@ -27,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/gamernitro999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="gamernitro999" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucj8mz2prpmo2zfalwvftshw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucj8mz2prpmo2zfalwvftshw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
